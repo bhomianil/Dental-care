@@ -1,0 +1,13 @@
+
+.main-content .description{
+    padding-top: 15px;
+}
+.main-content .description p,
+.main-content .description .section-title,
+.main-content .description .image-section{
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+.main-content .description .image-section{
+    height: 400px;
+}

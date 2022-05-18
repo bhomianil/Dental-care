@@ -1,0 +1,23 @@
+.video-section {
+    padding-top: 15px;
+}
+
+.video-section .video,
+.video-section .section-title {
+    margin: 15px 0 0
+}
+
+.video-section .desc {
+    background-color: #F3F3FF;
+    padding: 5px 15px 15px;
+}
+
+.video-section p {
+    padding-top: 10px;
+}
+
+.video-section video {
+    height: 100%;
+    width: 100%;
+    vertical-align: middle;
+}
